@@ -1,1 +1,1 @@
-# Vstudy
+# minit
